@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm @usermebs
+
+Welcome to my GitHub profile!
+
+## About Me
+- 🌱 I'm passionate about coding and technology
+- 💻 Always learning and exploring new technologies
+- 🤝 Open to collaborating on interesting projects
+
+## Tech Stack
+- Languages: 
+- Tools & Technologies: 
+- Areas of Interest: 
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usermebs&show_icons=true&theme=dracula)
+
+## Get in Touch
+- 📫 How to reach me: 
 
 <!--
-**usermebs/usermebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Fun fact: This README is displayed on my GitHub profile because it's in a repository named after my username!
 -->
